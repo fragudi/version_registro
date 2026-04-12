@@ -1,3 +1,3 @@
 # Proyecto personal
 
-Versiones
+Versiones de registro
